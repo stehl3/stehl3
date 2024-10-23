@@ -40,9 +40,5 @@
 - [LinkedIn](https://www.linkedin.com/in/tobiasstehle)
 - 📧 Email: tobiasnonque@gmail.com
 
-## 📈 GitHub Stats
-
-![Estadísticas de GitHub de Tobias](https://github-readme-stats.vercel.app/api?username=tobiasnonque&show_icons=true&theme=dark)
-
 ---
 ⭐️ From [tobiasnonque](https://github.com/tobiasnonque)
