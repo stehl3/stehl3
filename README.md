@@ -41,4 +41,3 @@
 - 📧 Email: tobiasnonque@gmail.com
 
 ---
-⭐️ From [tobiasnonque](https://github.com/tobiasnonque)
