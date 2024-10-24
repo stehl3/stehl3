@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Tobias Stehle
 
-**¡Bienvenido a mi perfil de GitHub!** Soy estudiante de Licenciatura en Informática y Técnico en Informática Profesional y Personal. Me apasiona la seguridad informática, las redes y la implementación de soluciones tecnológicas.
+**¡Bienvenido a mi perfil de GitHub!** 
+Soy un estudiante de Licenciatura en Informática y Técnico en Informática Profesional y Personal. Me apasiona la seguridad informática, las redes y la implementación de soluciones tecnológicas.
 
 ## 👨‍💻 Sobre mí
 
