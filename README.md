@@ -18,6 +18,9 @@
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Proxmox Server](https://img.shields.io/badge/Proxmox%20Server-DC3545?style=for-the-badge&logo=proxmox&logoColor=white)
+![Proxmox Backup Server](https://img.shields.io/badge/Proxmox%20Backup%20Server-007BFF?style=for-the-badge&logo=proxmox&logoColor=white)
+
 
 ## 💼 Experiencia Destacada
 
