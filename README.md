@@ -20,6 +20,8 @@
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Proxmox Server](https://img.shields.io/badge/Proxmox%20Server-DC3545?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Proxmox Backup Server](https://img.shields.io/badge/Proxmox%20Backup%20Server-007BFF?style=for-the-badge&logo=proxmox&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
 
 
 ## 💼 Experiencia Destacada
